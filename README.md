@@ -1,1 +1,1 @@
-# Dell5559-Hackintosh
+# Dell5559-Hackintosh-OpenCore
